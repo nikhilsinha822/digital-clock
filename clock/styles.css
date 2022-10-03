@@ -1,0 +1,18 @@
+.parent{
+    background-color: rgb(17, 17, 17);
+    color: aliceblue;
+    display: block;
+    width: 50%;
+    font-size: 350%;
+    padding: auto;
+    font-family: 'Orbitron', sans-serif;
+    border: solid black 2rem;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 20px 20px 15px rgb(128, 128, 128);
+    margin-top: 4%;
+    margin-left: 20%;
+}
+body{
+    align-items: center;
+}
