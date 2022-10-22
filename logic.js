@@ -14,7 +14,7 @@ function timeCalc(){
     if(hour<12){
         greet1="Good Morning";
     }
-    if(hour>12 && hour<16){
+    if(hour>=12 && hour<=16){
         greet1="Good Afternoon";
     }
     if(hour>16){
